@@ -1,7 +1,5 @@
 # 1. PEP 484-Style Type Hints for Banking Transactions
 
-from typing import Union
-
 
 def process_transaction(account_number: str, amount: float, transaction_type: str) -> str:
     if amount <= 0:
