@@ -1,0 +1,8 @@
+cryptography>=44
+rich>=13
+questionary>=2
+# Optional GUI drag-and-drop:
+# tkinterdnd2>=0.4
+# Test dependencies:
+pytest>=8
+hypothesis>=6
